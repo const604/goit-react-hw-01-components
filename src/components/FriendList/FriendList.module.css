@@ -9,9 +9,9 @@
 }
 
 .item {
-  /* display: flex;
-  justify-content: start;
-  align-items: center; */
+  display: flex;
+  justify-content: left;
+  align-items: center;
   gap: 20px;
   padding-top: 20px;
   padding-bottom: 20px;
