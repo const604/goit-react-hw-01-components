@@ -26,5 +26,12 @@
   height: 20px;
   margin-left: 20px;
   border-radius: 50%;
-  border: rgb(238, 238, 238);
+}
+
+.true {
+background-color: green;
+}
+
+.false {
+background-color: red;
 }
